@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\For While Loop\For While Loop\bin\Debug\netcoreapp3.1\For While Loop.exe
+C:\Users\opilane\source\repos\For While Loop\For While Loop\bin\Debug\netcoreapp3.1\For While Loop.deps.json
+C:\Users\opilane\source\repos\For While Loop\For While Loop\bin\Debug\netcoreapp3.1\For While Loop.runtimeconfig.json
+C:\Users\opilane\source\repos\For While Loop\For While Loop\bin\Debug\netcoreapp3.1\For While Loop.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\For While Loop\For While Loop\bin\Debug\netcoreapp3.1\For While Loop.dll
+C:\Users\opilane\source\repos\For While Loop\For While Loop\bin\Debug\netcoreapp3.1\For While Loop.pdb
+C:\Users\opilane\source\repos\For While Loop\For While Loop\obj\Debug\netcoreapp3.1\For While Loop.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\For While Loop\For While Loop\obj\Debug\netcoreapp3.1\For While Loop.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\For While Loop\For While Loop\obj\Debug\netcoreapp3.1\For While Loop.AssemblyInfo.cs
+C:\Users\opilane\source\repos\For While Loop\For While Loop\obj\Debug\netcoreapp3.1\For While Loop.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\For While Loop\For While Loop\obj\Debug\netcoreapp3.1\For While Loop.dll
+C:\Users\opilane\source\repos\For While Loop\For While Loop\obj\Debug\netcoreapp3.1\For While Loop.pdb
+C:\Users\opilane\source\repos\For While Loop\For While Loop\obj\Debug\netcoreapp3.1\For While Loop.genruntimeconfig.cache
